@@ -20,6 +20,6 @@ In 2020, the CDC reported that approximately 1 in 54 children in the U.S. is dia
 identified with autism, 1 in 144 girls identified with autism and boys are four times more likely to be diagnosed with autism than girls. Most children were still 
 being diagnosed after age 4, though autism can be reliably diagnosed as early as age 2.
 
-The diagnosis of Autism Spectrum Disorder (ASD) is a subjective process requiring clinical expertise in neurodevel opmental disorders. Since such expertise is not available
+The diagnosis of Autism Spectrum Disorder (ASD) is a subjective process requiring clinical expertise in neurodevelopmental disorders. Since such expertise is not available
 at many clinics, automated diagnosis using machine learning (ML) algorithms would be of great value to both clinicians and the imaging community to increase the diagnoses 
 availability and reproducibility while reducing subjectivity. Our idea is to use machine learning methodologies for the identification of autism by weights of corpus collosum.
